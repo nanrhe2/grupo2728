@@ -1,2 +1,2 @@
-# grupo2728
-test repositorio
+# Grupo2728
+Test repositorio
